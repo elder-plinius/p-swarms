@@ -32,4 +32,7 @@ agent = Agent(
 
 # Run the workflow on a task
 agent.run("Generate a 10,000 word blog on health and wellness.")
+<<<<<<< HEAD
 ___________________________________________________
+=======
+>>>>>>> 0c50b7e1ebd343402b53f29922ede1cf9ad6c9ee
